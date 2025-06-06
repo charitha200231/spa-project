@@ -1,0 +1,4 @@
+=== National Anthem Analysis ===
+Total Lines     : 13
+Total Words     : 54
+Total Characters (no spaces): 282
