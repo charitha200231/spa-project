@@ -1,4 +1,4 @@
--- 1. Create Tables
+
 CREATE TABLE Books (
     BookID INT PRIMARY KEY,
     Author VARCHAR(100),
