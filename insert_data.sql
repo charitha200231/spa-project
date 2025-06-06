@@ -1,4 +1,4 @@
--- 2. Insert 10 Sample Rows
+ Insert 10 Sample Rows
 
 -- Books
 INSERT INTO Books VALUES (1, 'J.K. Rowling', '9780747532743', 5);
