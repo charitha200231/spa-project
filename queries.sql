@@ -1,4 +1,4 @@
--- 3. Queries
+
 
 -- List all books issued to a specific member (example: MemberID = 1)
 SELECT B.BookID, B.Author, B.ISBN
