@@ -1,0 +1,19 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background: #333;
+  color: white;
+  padding: 1em;
+  text-align: center;
+}
+section {
+  padding: 2em;
+}
+@media (max-width: 600px) {
+  section {
+    padding: 1em;
+  }
+}
